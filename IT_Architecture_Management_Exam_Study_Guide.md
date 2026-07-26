@@ -794,16 +794,7 @@ Two sub-dimensions (both continua, *not* binary properties):
 - **IT implementation decision rights:** decision-making authority for specifying **how** IT should accomplish those objectives.
 
 **The model (memorize the causal chain):**
-```
-IT architecture modularity ──────────────► IT agility ──────────────► IT alignment
- (Loose coupling + Standardization)             ▲                          ▲
-                                                 │                          │
-IT governance decentralization ─────────────────┘                Control variables
- (IT specification decentralization +                        (IT-line interunit ties, IT unit's
-  IT implementation decentralization)                     business knowledge, line functions' technical
-                                                          knowledge, requirements codifiability, CIO on
-                                                          board, IT unit age, IT investment intensity, firm size)
-```
+
 ![Complementarities Between Organizational IT Architecture and Governance Structure — research model according to Tiwana & Konsynski 2010](images/m6_tiwana_konsynski_model.jpg)
 
 IT governance decentralization has its own direct arrow into the model **and** an arrow feeding into the *modularity → agility* relationship — i.e., it's modeled as a **moderator** of that link, not just another independent driver.
